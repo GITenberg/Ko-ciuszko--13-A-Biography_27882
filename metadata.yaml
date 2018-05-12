@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '32988'
     url: http://www.gutenberg.org/2009/agents/32988
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27882#Ko-ciuszko--13-A-Biography
 gutenberg_issued: '2009-01-24'
 gutenberg_type: Text
 identifiers:
